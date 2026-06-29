@@ -1,5 +1,13 @@
 # DataAnalytics_With_Python_Mini_Project
 # Amazon Sales Data Analytics with Python
+# Project Highlights :
+    ✔ Data Cleaning
+    ✔ Exploratory Data Analysis
+    ✔ Business KPIs
+    ✔ Data Visualization
+    ✔ Business Recommendations
+    ✔ Python & Pandas
+    ✔ Matplotlib & Seaborn
 
 ## 📌 Project Overview
 
