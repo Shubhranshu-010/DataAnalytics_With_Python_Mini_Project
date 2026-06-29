@@ -52,30 +52,5 @@ This mini project analyzes Amazon India sales data using Python to uncover meani
 ## 📂 Project Outcome
 
 This project demonstrates how Python can be used for real-world business analytics by transforming raw sales data into meaningful insights that support strategic decision-making.
-#STRUCTURE:
-Amazon-Sales-Data-Analytics/
-│
-├── data/
-│   ├── Amazon_Sales.xlsx
-│   └── cleaned_data.csv
-│
-├── notebooks/
-│   └── Amazon_Sales_Analysis.ipynb
-│
-├── images/
-│   ├── dashboard.png
-│   ├── sales_by_state.png
-│   ├── category_sales.png
-│   ├── monthly_sales.png
-│   ├── top_products.png
-│   └── payment_mode.png
-│
-├── src/
-│   └── analysis.py
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
 
 ⭐ If you find this project useful, feel free to star this repository!
