@@ -44,6 +44,7 @@ This mini project analyzes Amazon India sales data using Python to uncover meani
 ## 📂 Project Outcome
 
 This project demonstrates how Python can be used for real-world business analytics by transforming raw sales data into meaningful insights that support strategic decision-making.
+#STRUCTURE:
 Amazon-Sales-Data-Analytics/
 │
 ├── data/
